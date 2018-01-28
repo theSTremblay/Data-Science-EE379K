@@ -45,4 +45,17 @@ print("GOOD")
 # 
 #
 #
-#
+#a) THere are 
+#[452 patients x 280 features]
+
+#b) On a blind dataset the first four features are likely: 
+#Age,
+#Pre-existing conditions or illness Yes or No
+#Weight in lbs
+#Height in inches 
+
+#c) WE replace "?" in the dataset, as well as misplaced strings with code in lines 18 -40
+
+
+d#) To test if features have a strong impact on the dataset correlate whether a points distance from the mean affects its slikelhood to influence the desired output 
+
